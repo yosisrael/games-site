@@ -7,3 +7,11 @@ html, body {
 img{
     width: 50%;
 }
+
+.gallery {
+    display: flex;
+}
+
+.gallery img {
+    width: calc(100% /3);
+}
